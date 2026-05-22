@@ -46,9 +46,7 @@ skillbridge-india/
 │   └── server.js
 │
 ├── frontend/
-│   ├── assets/
-│   ├── css/
-│   ├── js/
+│   ├──index.html
 │   └── pages/
 │
 └── README.md
